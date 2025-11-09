@@ -2,6 +2,8 @@
 
 A one-page, operations-ready view of **incoming supplier quality**, **in-process capability**, and **NCR backlog health** designed to drive weekly 8D actions and supplier containment.
 
+![alt text](image.png)
+
 ### What this page answers
 
 1. **Which suppliers drive incoming defects?**
