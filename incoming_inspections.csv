@@ -1,0 +1,893 @@
+date,supplier_name,supplier_code,part_number,part_desc,lot_id,qty_received,qty_inspected,defects_found,defect_type,severity
+2025-01-01,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250101-204,195,89,1,Leak,Minor
+2025-01-02,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250102-323,184,84,3,Dimensional OOT,Minor
+2025-01-02,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250102-716,216,73,0,,
+2025-01-02,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250102-303,201,92,0,,
+2025-01-02,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250102-384,191,101,1,Dimensional OOT,Minor
+2025-01-02,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250102-877,201,81,0,,
+2025-01-03,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250103-881,192,70,1,Dimensional OOT,Minor
+2025-01-03,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250103-967,200,76,2,Leak,Minor
+2025-01-04,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250104-649,192,60,4,Contamination,Major
+2025-01-04,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250104-180,221,64,0,,
+2025-01-04,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250104-949,215,85,0,,
+2025-01-05,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250105-146,214,88,3,Dimensional OOT,Major
+2025-01-05,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250105-975,212,67,2,Contamination,Critical
+2025-01-05,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250105-954,205,77,1,Dimensional OOT,Minor
+2025-01-05,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250105-373,210,78,1,Dimensional OOT,Minor
+2025-01-05,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250105-846,209,102,2,Cosmetic,Minor
+2025-01-06,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250106-755,201,81,1,Dimensional OOT,Critical
+2025-01-06,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250106-886,200,71,1,Leak,Minor
+2025-01-07,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250107-167,188,67,3,Contamination,Minor
+2025-01-08,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250108-771,214,83,1,Contamination,Minor
+2025-01-08,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250108-758,221,69,0,,
+2025-01-09,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250109-242,197,40,0,,
+2025-01-09,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250109-538,181,77,2,Dimensional OOT,Major
+2025-01-09,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250109-508,209,79,0,,
+2025-01-09,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250109-605,191,80,1,Documentation,Minor
+2025-01-10,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250110-263,190,71,1,Contamination,Minor
+2025-01-11,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250111-494,207,91,0,,
+2025-01-11,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250111-666,205,66,2,Documentation,Minor
+2025-01-11,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250111-649,192,81,2,Cosmetic,Minor
+2025-01-11,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250111-400,188,88,1,Contamination,Minor
+2025-01-12,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250112-836,228,68,3,Leak,Major
+2025-01-12,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250112-208,219,95,2,Contamination,Minor
+2025-01-12,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250112-303,201,83,2,Contamination,Minor
+2025-01-12,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250112-897,194,89,1,Contamination,Minor
+2025-01-13,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250113-713,184,84,0,,
+2025-01-13,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250113-999,184,95,2,Leak,Critical
+2025-01-13,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250113-680,209,97,1,Leak,Minor
+2025-01-13,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250113-170,217,66,1,Leak,Minor
+2025-01-13,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250113-586,190,78,4,Contamination,Minor
+2025-01-14,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250114-316,205,121,2,Dimensional OOT,Major
+2025-01-14,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250114-830,186,63,4,Contamination,Major
+2025-01-14,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250114-548,195,78,5,Documentation,Major
+2025-01-14,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250114-165,191,73,1,Dimensional OOT,Minor
+2025-01-14,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250114-325,202,89,1,Cosmetic,Minor
+2025-01-15,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250115-980,182,85,3,Leak,Critical
+2025-01-16,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250116-319,209,93,2,Leak,Major
+2025-01-16,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250116-690,200,88,4,Cosmetic,Major
+2025-01-16,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250116-903,213,62,0,,
+2025-01-17,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250117-294,203,114,0,,
+2025-01-17,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250117-520,204,66,1,Cosmetic,Minor
+2025-01-17,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250117-789,212,69,0,,
+2025-01-17,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250117-919,201,100,6,Leak,Major
+2025-01-18,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250118-532,201,70,2,Leak,Minor
+2025-01-19,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250119-553,175,68,1,Leak,Critical
+2025-01-19,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250119-653,184,106,3,Leak,Major
+2025-01-20,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250120-318,191,85,3,Leak,Minor
+2025-01-21,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250121-268,197,99,0,,
+2025-01-21,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250121-902,180,76,1,Documentation,Minor
+2025-01-21,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250121-392,200,76,0,,
+2025-01-21,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250121-294,205,78,1,Cosmetic,Minor
+2025-01-22,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250122-693,200,65,0,,
+2025-01-22,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250122-151,206,89,2,Leak,Minor
+2025-01-22,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250122-261,195,111,1,Dimensional OOT,Major
+2025-01-23,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250123-169,195,72,1,Contamination,Minor
+2025-01-24,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250124-683,216,71,0,,
+2025-01-24,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250124-529,208,85,3,Cosmetic,Major
+2025-01-25,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250125-785,191,91,7,Leak,Minor
+2025-01-25,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250125-787,196,69,4,Leak,Minor
+2025-01-25,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250125-174,217,92,1,Dimensional OOT,Critical
+2025-01-25,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250125-202,222,72,4,Cosmetic,Minor
+2025-01-25,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250125-457,195,84,4,Leak,Minor
+2025-01-26,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250126-478,203,53,0,,
+2025-01-27,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250127-953,207,89,0,,
+2025-01-27,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250127-769,200,48,3,Cosmetic,Critical
+2025-01-27,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250127-779,194,86,1,Cosmetic,Minor
+2025-01-28,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250128-860,179,73,3,Leak,Major
+2025-01-29,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250129-451,209,58,1,Leak,Minor
+2025-01-29,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250129-966,211,49,4,Dimensional OOT,Minor
+2025-01-29,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250129-749,180,79,0,,
+2025-01-29,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250129-233,180,99,3,Leak,Minor
+2025-01-29,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250129-265,238,90,0,,
+2025-01-30,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250130-807,238,81,7,Dimensional OOT,Minor
+2025-01-30,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250130-696,174,80,2,Dimensional OOT,Major
+2025-01-30,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250130-473,208,98,6,Dimensional OOT,Minor
+2025-01-30,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250130-355,166,112,1,Contamination,Minor
+2025-01-31,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250131-995,186,95,0,,
+2025-02-01,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250201-266,208,94,2,Documentation,Minor
+2025-02-01,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250201-854,210,90,3,Contamination,Minor
+2025-02-01,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250201-785,166,97,5,Contamination,Minor
+2025-02-01,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250201-210,183,85,3,Leak,Major
+2025-02-02,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250202-979,216,56,0,,
+2025-02-02,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250202-458,218,102,5,Leak,Critical
+2025-02-02,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250202-508,217,63,3,Leak,Major
+2025-02-02,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250202-385,204,95,3,Contamination,Critical
+2025-02-03,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250203-649,180,103,2,Dimensional OOT,Critical
+2025-02-03,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250203-282,217,95,2,Leak,Critical
+2025-02-03,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250203-453,182,89,4,Leak,Minor
+2025-02-04,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250204-690,187,54,1,Documentation,Minor
+2025-02-04,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250204-632,222,102,2,Leak,Minor
+2025-02-04,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250204-854,205,79,1,Cosmetic,Critical
+2025-02-05,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250205-438,198,48,1,Leak,Major
+2025-02-05,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250205-407,189,63,1,Cosmetic,Minor
+2025-02-06,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250206-434,221,65,0,,
+2025-02-06,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250206-667,164,67,0,,
+2025-02-06,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250206-530,181,71,0,,
+2025-02-06,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250206-730,208,87,1,Cosmetic,Critical
+2025-02-06,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250206-411,172,89,1,Dimensional OOT,Major
+2025-02-07,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250207-429,187,115,1,Contamination,Major
+2025-02-07,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250207-584,198,88,2,Dimensional OOT,Minor
+2025-02-07,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250207-774,201,102,0,,
+2025-02-08,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250208-779,190,70,0,,
+2025-02-09,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250209-788,220,95,2,Contamination,Major
+2025-02-09,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250209-147,177,102,2,Contamination,Minor
+2025-02-09,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250209-566,181,100,1,Cosmetic,Major
+2025-02-09,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250209-299,204,70,0,,
+2025-02-09,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250209-771,191,42,4,Dimensional OOT,Minor
+2025-02-10,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250210-923,180,71,1,Contamination,Minor
+2025-02-11,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250211-224,207,110,3,Dimensional OOT,Critical
+2025-02-11,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250211-920,212,68,0,,
+2025-02-11,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250211-873,189,57,2,Documentation,Minor
+2025-02-11,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250211-616,183,70,1,Cosmetic,Major
+2025-02-11,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250211-982,182,70,2,Dimensional OOT,Minor
+2025-02-12,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250212-869,211,42,0,,
+2025-02-12,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250212-741,226,82,1,Contamination,Minor
+2025-02-12,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250212-340,173,97,1,Dimensional OOT,Major
+2025-02-12,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250212-241,213,75,2,Leak,Minor
+2025-02-13,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250213-165,207,93,1,Cosmetic,Major
+2025-02-13,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250213-438,214,69,0,,
+2025-02-14,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250214-498,211,84,1,Leak,Major
+2025-02-14,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250214-883,202,66,4,Documentation,Minor
+2025-02-14,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250214-405,205,85,2,Dimensional OOT,Critical
+2025-02-14,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250214-529,201,72,1,Contamination,Critical
+2025-02-14,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250214-599,189,81,2,Contamination,Major
+2025-02-15,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250215-597,219,99,0,,
+2025-02-15,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250215-514,188,93,4,Dimensional OOT,Major
+2025-02-16,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250216-646,202,64,2,Documentation,Critical
+2025-02-16,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250216-706,203,89,0,,
+2025-02-17,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250217-987,203,76,3,Leak,Minor
+2025-02-17,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250217-316,227,87,3,Leak,Minor
+2025-02-17,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250217-384,183,59,3,Dimensional OOT,Major
+2025-02-17,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250217-119,227,65,4,Leak,Minor
+2025-02-17,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250217-329,216,118,2,Leak,Critical
+2025-02-18,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250218-872,170,64,0,,
+2025-02-19,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250219-256,224,99,1,Leak,Minor
+2025-02-20,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250220-323,188,76,1,Cosmetic,Minor
+2025-02-20,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250220-885,197,96,0,,
+2025-02-21,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250221-721,183,118,0,,
+2025-02-21,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250221-418,211,78,1,Contamination,Minor
+2025-02-21,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250221-793,203,76,3,Leak,Minor
+2025-02-22,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250222-177,198,62,0,,
+2025-02-22,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250222-204,195,63,0,,
+2025-02-22,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250222-223,184,78,1,Contamination,Major
+2025-02-22,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250222-538,188,72,2,Contamination,Minor
+2025-02-23,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250223-530,188,92,2,Cosmetic,Minor
+2025-02-23,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250223-750,215,63,1,Leak,Critical
+2025-02-23,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250223-851,221,54,4,Cosmetic,Minor
+2025-02-24,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250224-730,215,69,0,,
+2025-02-24,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250224-893,190,98,0,,
+2025-02-24,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250224-374,212,79,4,Dimensional OOT,Major
+2025-02-24,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250224-561,213,112,2,Contamination,Minor
+2025-02-24,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250224-444,182,80,1,Dimensional OOT,Major
+2025-02-25,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250225-916,190,55,1,Leak,Minor
+2025-02-26,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250226-382,206,83,3,Contamination,Major
+2025-02-26,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250226-347,207,77,2,Dimensional OOT,Minor
+2025-02-26,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250226-600,201,87,0,,
+2025-02-27,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250227-807,204,57,0,,
+2025-02-27,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250227-401,209,65,4,Dimensional OOT,Minor
+2025-02-27,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250227-808,228,89,0,,
+2025-02-27,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250227-779,200,97,0,,
+2025-02-27,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250227-535,175,109,2,Dimensional OOT,Minor
+2025-02-28,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250228-357,189,89,2,Cosmetic,Minor
+2025-02-28,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250228-860,204,60,1,Cosmetic,Minor
+2025-02-28,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250228-383,219,88,3,Leak,Major
+2025-02-28,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250228-389,217,57,4,Documentation,Minor
+2025-02-28,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250228-409,230,86,1,Leak,Minor
+2025-03-01,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250301-155,203,86,4,Leak,Minor
+2025-03-02,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250302-205,230,80,1,Cosmetic,Major
+2025-03-02,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250302-687,215,58,0,,
+2025-03-02,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250302-590,175,98,0,,
+2025-03-02,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250302-982,192,70,2,Leak,Minor
+2025-03-02,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250302-175,220,81,5,Contamination,Minor
+2025-03-03,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250303-255,194,72,0,,
+2025-03-03,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250303-354,212,103,1,Documentation,Minor
+2025-03-03,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250303-882,180,64,0,,
+2025-03-03,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250303-894,165,79,1,Cosmetic,Major
+2025-03-03,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250303-980,207,77,2,Dimensional OOT,Minor
+2025-03-04,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250304-857,230,63,5,Dimensional OOT,Minor
+2025-03-04,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250304-740,206,56,0,,
+2025-03-04,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250304-776,188,70,0,,
+2025-03-04,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250304-260,185,91,1,Leak,Minor
+2025-03-04,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250304-561,214,83,0,,
+2025-03-05,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250305-133,203,74,0,,
+2025-03-05,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250305-564,218,89,1,Cosmetic,Major
+2025-03-05,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250305-740,196,93,1,Documentation,Major
+2025-03-05,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250305-763,176,72,3,Dimensional OOT,Minor
+2025-03-05,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250305-269,200,98,2,Contamination,Minor
+2025-03-06,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250306-579,207,88,2,Documentation,Minor
+2025-03-06,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250306-612,207,86,4,Cosmetic,Critical
+2025-03-06,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250306-542,208,100,1,Dimensional OOT,Minor
+2025-03-07,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250307-790,219,74,1,Leak,Minor
+2025-03-07,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250307-701,184,80,0,,
+2025-03-07,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250307-375,191,80,1,Documentation,Major
+2025-03-08,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250308-384,205,75,2,Dimensional OOT,Major
+2025-03-08,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250308-193,202,98,2,Dimensional OOT,Major
+2025-03-08,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250308-207,179,73,1,Dimensional OOT,Minor
+2025-03-08,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250308-395,209,52,2,Leak,Major
+2025-03-08,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250308-565,211,103,3,Contamination,Minor
+2025-03-09,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250309-513,198,61,2,Leak,Critical
+2025-03-10,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250310-523,208,83,1,Cosmetic,Minor
+2025-03-10,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250310-610,183,78,2,Dimensional OOT,Major
+2025-03-10,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250310-662,196,79,3,Contamination,Minor
+2025-03-10,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250310-224,188,81,1,Dimensional OOT,Major
+2025-03-10,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250310-418,218,85,3,Contamination,Major
+2025-03-11,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250311-517,216,65,0,,
+2025-03-11,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250311-572,224,78,1,Documentation,Critical
+2025-03-11,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250311-833,181,59,1,Cosmetic,Minor
+2025-03-11,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250311-594,172,92,1,Cosmetic,Minor
+2025-03-11,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250311-295,198,77,1,Dimensional OOT,Minor
+2025-03-12,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250312-908,204,91,3,Contamination,Minor
+2025-03-12,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250312-373,179,116,3,Dimensional OOT,Major
+2025-03-12,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250312-389,202,83,0,,
+2025-03-12,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250312-957,194,77,0,,
+2025-03-12,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250312-252,203,71,1,Documentation,Minor
+2025-03-13,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250313-656,179,107,4,Dimensional OOT,Minor
+2025-03-13,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250313-429,209,95,0,,
+2025-03-13,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250313-492,221,77,3,Documentation,Minor
+2025-03-13,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250313-822,201,70,2,Leak,Major
+2025-03-14,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250314-614,193,89,3,Dimensional OOT,Minor
+2025-03-14,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250314-550,202,80,1,Contamination,Major
+2025-03-14,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250314-247,208,96,2,Contamination,Minor
+2025-03-14,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250314-371,210,61,2,Leak,Major
+2025-03-15,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250315-972,203,78,5,Cosmetic,Major
+2025-03-15,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250315-835,222,89,1,Dimensional OOT,Minor
+2025-03-15,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250315-170,187,100,1,Contamination,Minor
+2025-03-16,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250316-544,209,71,3,Documentation,Major
+2025-03-16,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250316-129,185,55,2,Dimensional OOT,Major
+2025-03-17,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250317-400,198,97,0,,
+2025-03-18,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250318-249,195,92,0,,
+2025-03-18,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250318-284,212,79,1,Dimensional OOT,Major
+2025-03-18,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250318-734,174,48,2,Leak,Major
+2025-03-19,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250319-360,197,102,1,Leak,Minor
+2025-03-19,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250319-576,184,92,3,Cosmetic,Major
+2025-03-20,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250320-453,216,95,1,Leak,Minor
+2025-03-20,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250320-356,180,80,3,Cosmetic,Minor
+2025-03-20,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250320-594,163,90,1,Leak,Minor
+2025-03-21,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250321-816,200,82,4,Dimensional OOT,Minor
+2025-03-22,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250322-802,198,111,1,Leak,Minor
+2025-03-22,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250322-952,209,84,1,Contamination,Major
+2025-03-22,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250322-921,218,93,5,Contamination,Minor
+2025-03-23,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250323-838,208,94,2,Cosmetic,Major
+2025-03-23,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250323-743,208,89,0,,
+2025-03-23,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250323-693,206,95,3,Leak,Minor
+2025-03-24,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250324-865,203,76,1,Leak,Minor
+2025-03-24,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250324-997,207,90,2,Leak,Major
+2025-03-24,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250324-268,215,77,1,Dimensional OOT,Minor
+2025-03-25,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250325-991,194,66,2,Documentation,Minor
+2025-03-25,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250325-872,188,104,4,Dimensional OOT,Minor
+2025-03-25,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250325-474,198,80,2,Documentation,Major
+2025-03-26,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250326-565,195,95,5,Leak,Minor
+2025-03-27,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250327-480,212,76,4,Cosmetic,Major
+2025-03-27,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250327-582,194,54,0,,
+2025-03-27,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250327-724,192,51,1,Contamination,Minor
+2025-03-28,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250328-750,209,65,0,,
+2025-03-28,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250328-518,208,107,1,Contamination,Minor
+2025-03-29,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250329-604,203,79,3,Documentation,Minor
+2025-03-30,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250330-564,202,87,2,Contamination,Minor
+2025-03-31,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250331-258,188,58,4,Dimensional OOT,Major
+2025-03-31,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250331-770,221,91,0,,
+2025-03-31,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250331-386,215,69,2,Cosmetic,Critical
+2025-04-01,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250401-341,198,87,2,Leak,Minor
+2025-04-02,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250402-467,187,80,2,Dimensional OOT,Critical
+2025-04-02,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250402-382,202,101,0,,
+2025-04-02,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250402-193,208,105,2,Documentation,Major
+2025-04-03,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250403-121,179,55,0,,
+2025-04-03,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250403-349,186,70,0,,
+2025-04-04,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250404-667,201,70,2,Leak,Major
+2025-04-04,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250404-436,219,50,1,Leak,Major
+2025-04-05,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250405-248,207,76,1,Leak,Major
+2025-04-05,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250405-356,202,88,0,,
+2025-04-06,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250406-907,201,103,1,Leak,Minor
+2025-04-06,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250406-153,207,63,4,Leak,Minor
+2025-04-07,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250407-587,226,81,3,Dimensional OOT,Major
+2025-04-07,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250407-615,177,82,2,Dimensional OOT,Minor
+2025-04-08,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250408-144,209,63,0,,
+2025-04-08,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250408-131,177,52,1,Leak,Major
+2025-04-09,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250409-829,198,92,2,Dimensional OOT,Minor
+2025-04-10,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250410-229,180,93,3,Leak,Minor
+2025-04-10,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250410-432,214,72,1,Cosmetic,Minor
+2025-04-10,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250410-719,185,80,2,Dimensional OOT,Minor
+2025-04-10,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250410-770,215,116,3,Contamination,Minor
+2025-04-11,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250411-523,185,64,1,Dimensional OOT,Major
+2025-04-11,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250411-420,173,87,1,Dimensional OOT,Major
+2025-04-11,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250411-256,192,65,1,Cosmetic,Minor
+2025-04-11,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250411-168,187,65,0,,
+2025-04-11,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250411-856,212,82,4,Leak,Minor
+2025-04-12,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250412-669,188,74,0,,
+2025-04-12,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250412-786,208,82,3,Documentation,Minor
+2025-04-12,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250412-868,205,87,3,Dimensional OOT,Major
+2025-04-13,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250413-460,182,59,1,Documentation,Major
+2025-04-13,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250413-619,196,93,0,,
+2025-04-13,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250413-210,197,71,2,Cosmetic,Minor
+2025-04-13,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250413-687,187,65,1,Dimensional OOT,Major
+2025-04-14,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250414-965,198,79,0,,
+2025-04-14,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250414-728,193,45,0,,
+2025-04-15,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250415-373,198,69,3,Documentation,Major
+2025-04-15,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250415-447,197,78,3,Leak,Major
+2025-04-15,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250415-773,207,99,1,Leak,Minor
+2025-04-15,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250415-131,201,81,4,Leak,Major
+2025-04-15,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250415-320,164,74,0,,
+2025-04-16,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250416-838,210,65,1,Dimensional OOT,Minor
+2025-04-16,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250416-259,207,97,2,Cosmetic,Major
+2025-04-16,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250416-553,242,89,2,Leak,Minor
+2025-04-16,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250416-379,187,99,3,Dimensional OOT,Minor
+2025-04-17,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250417-390,201,101,5,Leak,Minor
+2025-04-17,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250417-146,214,74,2,Dimensional OOT,Major
+2025-04-18,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250418-156,188,53,0,,
+2025-04-18,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250418-240,229,76,3,Leak,Minor
+2025-04-19,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250419-540,206,84,3,Leak,Minor
+2025-04-19,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250419-612,224,76,4,Dimensional OOT,Major
+2025-04-19,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250419-143,210,64,2,Leak,Major
+2025-04-20,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250420-689,165,85,2,Documentation,Major
+2025-04-20,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250420-396,187,87,2,Dimensional OOT,Major
+2025-04-20,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250420-121,204,88,0,,
+2025-04-20,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250420-951,219,70,1,Contamination,Major
+2025-04-21,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250421-703,178,71,2,Contamination,Minor
+2025-04-21,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250421-863,210,72,1,Leak,Major
+2025-04-21,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250421-622,202,68,4,Leak,Minor
+2025-04-22,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250422-459,194,73,2,Leak,Major
+2025-04-23,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250423-716,198,83,2,Leak,Minor
+2025-04-23,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250423-281,196,97,0,,
+2025-04-24,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250424-678,204,71,2,Contamination,Minor
+2025-04-24,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250424-423,202,104,5,Leak,Critical
+2025-04-24,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250424-169,190,67,0,,
+2025-04-24,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250424-705,193,94,2,Cosmetic,Major
+2025-04-25,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250425-175,198,69,0,,
+2025-04-26,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250426-393,188,82,2,Leak,Minor
+2025-04-26,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250426-573,206,76,2,Cosmetic,Minor
+2025-04-26,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250426-142,195,61,1,Documentation,Major
+2025-04-27,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250427-767,193,82,0,,
+2025-04-27,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250427-163,229,95,3,Cosmetic,Minor
+2025-04-27,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250427-930,186,62,0,,
+2025-04-27,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250427-761,176,36,1,Documentation,Minor
+2025-04-28,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250428-636,212,65,2,Cosmetic,Critical
+2025-04-28,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250428-262,206,65,0,,
+2025-04-29,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250429-795,222,93,1,Dimensional OOT,Major
+2025-04-29,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250429-908,212,72,0,,
+2025-04-29,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250429-794,222,43,1,Leak,Minor
+2025-04-30,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250430-717,221,83,2,Cosmetic,Major
+2025-04-30,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250430-244,228,56,1,Dimensional OOT,Minor
+2025-04-30,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250430-778,206,60,6,Leak,Major
+2025-04-30,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250430-417,204,68,2,Cosmetic,Critical
+2025-05-01,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250501-948,202,75,2,Contamination,Major
+2025-05-01,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250501-195,202,63,0,,
+2025-05-01,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250501-416,230,73,2,Dimensional OOT,Minor
+2025-05-01,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250501-296,206,80,2,Dimensional OOT,Major
+2025-05-01,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250501-907,198,70,1,Leak,Minor
+2025-05-02,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250502-138,184,81,2,Contamination,Major
+2025-05-03,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250503-266,219,74,2,Leak,Minor
+2025-05-03,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250503-548,153,93,2,Contamination,Minor
+2025-05-03,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250503-554,200,95,2,Dimensional OOT,Major
+2025-05-04,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250504-928,187,93,1,Leak,Minor
+2025-05-04,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250504-794,205,91,2,Contamination,Minor
+2025-05-04,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250504-388,184,70,4,Documentation,Minor
+2025-05-04,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250504-265,222,71,2,Dimensional OOT,Minor
+2025-05-04,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250504-920,206,110,0,,
+2025-05-05,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250505-480,220,87,1,Leak,Minor
+2025-05-05,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250505-227,206,77,1,Cosmetic,Minor
+2025-05-05,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250505-625,201,67,3,Contamination,Minor
+2025-05-05,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250505-936,215,64,2,Leak,Critical
+2025-05-05,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250505-505,215,78,1,Documentation,Minor
+2025-05-06,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250506-329,193,92,1,Dimensional OOT,Minor
+2025-05-06,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250506-201,189,70,0,,
+2025-05-06,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250506-393,206,94,1,Contamination,Minor
+2025-05-06,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250506-812,181,97,0,,
+2025-05-06,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250506-730,185,88,1,Contamination,Minor
+2025-05-07,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250507-119,206,50,0,,
+2025-05-08,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250508-640,206,85,3,Dimensional OOT,Major
+2025-05-08,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250508-224,207,84,2,Contamination,Minor
+2025-05-08,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250508-568,180,96,2,Dimensional OOT,Major
+2025-05-09,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250509-711,195,77,0,,
+2025-05-10,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250510-398,191,87,2,Dimensional OOT,Major
+2025-05-10,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250510-526,214,93,1,Cosmetic,Minor
+2025-05-10,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250510-638,219,85,1,Dimensional OOT,Minor
+2025-05-10,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250510-120,189,51,1,Contamination,Minor
+2025-05-10,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250510-482,191,94,6,Leak,Minor
+2025-05-11,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250511-465,185,91,0,,
+2025-05-11,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250511-453,217,66,0,,
+2025-05-11,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250511-440,223,89,4,Contamination,Major
+2025-05-12,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250512-279,192,87,5,Dimensional OOT,Major
+2025-05-12,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250512-286,198,98,5,Documentation,Minor
+2025-05-13,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250513-910,188,76,1,Leak,Minor
+2025-05-13,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250513-507,206,102,3,Leak,Minor
+2025-05-14,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250514-137,205,68,0,,
+2025-05-14,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250514-392,166,76,0,,
+2025-05-14,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250514-986,204,81,0,,
+2025-05-14,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250514-547,161,96,1,Leak,Major
+2025-05-14,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250514-861,200,77,0,,
+2025-05-15,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250515-808,205,81,1,Dimensional OOT,Minor
+2025-05-15,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250515-916,200,69,0,,
+2025-05-15,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250515-180,196,91,2,Contamination,Major
+2025-05-15,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250515-400,215,72,1,Documentation,Minor
+2025-05-16,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250516-556,171,69,1,Leak,Minor
+2025-05-16,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250516-557,198,76,1,Leak,Minor
+2025-05-16,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250516-754,174,87,2,Cosmetic,Minor
+2025-05-17,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250517-795,207,78,2,Dimensional OOT,Major
+2025-05-18,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250518-900,223,85,1,Leak,Major
+2025-05-18,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250518-229,222,62,0,,
+2025-05-19,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250519-470,197,120,0,,
+2025-05-20,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250520-560,181,98,1,Leak,Minor
+2025-05-20,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250520-687,216,107,1,Dimensional OOT,Major
+2025-05-20,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250520-385,192,100,3,Dimensional OOT,Minor
+2025-05-20,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250520-630,197,52,2,Leak,Minor
+2025-05-21,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250521-820,209,63,1,Leak,Major
+2025-05-21,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250521-726,183,65,0,,
+2025-05-21,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250521-175,206,71,1,Leak,Minor
+2025-05-21,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250521-189,192,55,1,Contamination,Minor
+2025-05-22,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250522-397,208,72,1,Cosmetic,Minor
+2025-05-22,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250522-971,239,63,0,,
+2025-05-22,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250522-912,211,88,0,,
+2025-05-23,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250523-242,234,83,4,Leak,Minor
+2025-05-23,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250523-126,237,56,0,,
+2025-05-23,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250523-664,183,103,4,Dimensional OOT,Minor
+2025-05-24,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250524-167,198,68,0,,
+2025-05-24,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250524-638,193,80,1,Documentation,Major
+2025-05-25,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250525-424,203,111,1,Contamination,Minor
+2025-05-25,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250525-452,219,109,2,Dimensional OOT,Major
+2025-05-25,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250525-755,196,119,0,,
+2025-05-25,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250525-614,209,74,3,Contamination,Minor
+2025-05-26,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250526-265,190,85,1,Dimensional OOT,Minor
+2025-05-27,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250527-454,218,58,0,,
+2025-05-27,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250527-356,211,47,3,Contamination,Major
+2025-05-27,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250527-729,196,86,6,Leak,Major
+2025-05-28,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250528-694,186,77,4,Cosmetic,Minor
+2025-05-28,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250528-719,221,77,2,Cosmetic,Major
+2025-05-28,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250528-183,205,79,2,Leak,Major
+2025-05-28,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250528-371,209,73,0,,
+2025-05-28,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250528-754,214,94,1,Contamination,Minor
+2025-05-29,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250529-594,216,86,2,Leak,Critical
+2025-05-30,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250530-161,207,85,1,Leak,Minor
+2025-05-30,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250530-525,199,55,0,,
+2025-05-31,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250531-448,194,51,0,,
+2025-05-31,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250531-420,200,77,0,,
+2025-05-31,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250531-508,196,68,1,Cosmetic,Major
+2025-05-31,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250531-347,226,75,2,Dimensional OOT,Minor
+2025-06-01,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250601-151,188,80,1,Dimensional OOT,Minor
+2025-06-01,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250601-986,206,80,2,Contamination,Minor
+2025-06-01,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250601-933,203,83,0,,
+2025-06-01,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250601-263,209,83,3,Cosmetic,Minor
+2025-06-02,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250602-610,183,79,0,,
+2025-06-02,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250602-502,182,70,1,Dimensional OOT,Minor
+2025-06-02,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250602-346,209,92,0,,
+2025-06-02,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250602-606,179,90,1,Dimensional OOT,Minor
+2025-06-03,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250603-392,197,85,0,,
+2025-06-03,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250603-370,208,103,1,Contamination,Minor
+2025-06-03,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250603-510,209,81,1,Contamination,Minor
+2025-06-03,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250603-395,179,73,1,Dimensional OOT,Minor
+2025-06-03,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250603-616,235,58,0,,
+2025-06-04,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250604-796,195,98,3,Leak,Critical
+2025-06-04,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250604-482,187,95,1,Leak,Minor
+2025-06-04,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250604-247,207,68,1,Dimensional OOT,Minor
+2025-06-04,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250604-146,210,62,3,Dimensional OOT,Minor
+2025-06-05,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250605-252,191,53,2,Contamination,Minor
+2025-06-06,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250606-426,193,76,1,Leak,Critical
+2025-06-06,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250606-406,196,78,1,Documentation,Major
+2025-06-06,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250606-601,207,90,2,Dimensional OOT,Minor
+2025-06-06,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250606-477,214,94,1,Leak,Major
+2025-06-06,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250606-915,194,82,3,Documentation,Minor
+2025-06-07,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250607-371,213,45,0,,
+2025-06-08,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250608-838,173,78,0,,
+2025-06-08,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250608-591,199,88,0,,
+2025-06-08,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250608-961,194,74,1,Cosmetic,Major
+2025-06-08,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250608-686,212,84,2,Contamination,Minor
+2025-06-08,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250608-528,195,67,2,Leak,Minor
+2025-06-09,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250609-520,191,84,0,,
+2025-06-09,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250609-853,183,67,1,Documentation,Major
+2025-06-10,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250610-631,235,80,0,,
+2025-06-11,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250611-485,175,77,3,Documentation,Minor
+2025-06-11,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250611-570,197,76,0,,
+2025-06-12,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250612-838,217,56,1,Dimensional OOT,Major
+2025-06-12,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250612-352,204,82,1,Cosmetic,Minor
+2025-06-12,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250612-404,201,70,1,Leak,Critical
+2025-06-12,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250612-600,209,100,1,Cosmetic,Major
+2025-06-12,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250612-457,203,75,0,,
+2025-06-13,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250613-394,194,89,0,,
+2025-06-13,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250613-504,192,72,1,Cosmetic,Minor
+2025-06-13,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250613-397,207,68,1,Documentation,Major
+2025-06-13,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250613-552,211,101,3,Documentation,Minor
+2025-06-13,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250613-865,232,97,0,,
+2025-06-14,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250614-675,203,61,1,Contamination,Minor
+2025-06-14,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250614-240,224,57,0,,
+2025-06-14,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250614-151,161,73,4,Cosmetic,Minor
+2025-06-14,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250614-202,203,88,5,Leak,Minor
+2025-06-15,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250615-105,191,77,3,Leak,Major
+2025-06-15,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250615-516,199,86,0,,
+2025-06-15,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250615-394,193,40,2,Dimensional OOT,Minor
+2025-06-15,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250615-191,216,95,3,Cosmetic,Critical
+2025-06-16,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250616-138,183,53,1,Cosmetic,Major
+2025-06-16,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250616-527,162,90,0,,
+2025-06-16,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250616-956,192,90,1,Documentation,Minor
+2025-06-16,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250616-993,217,64,1,Leak,Major
+2025-06-16,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250616-681,215,91,3,Contamination,Minor
+2025-06-17,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250617-656,196,71,2,Leak,Critical
+2025-06-17,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250617-616,209,86,6,Contamination,Minor
+2025-06-17,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250617-266,165,56,2,Leak,Minor
+2025-06-17,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250617-114,211,109,5,Cosmetic,Major
+2025-06-17,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250617-875,227,96,3,Contamination,Minor
+2025-06-18,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250618-946,224,89,1,Contamination,Major
+2025-06-18,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250618-197,214,60,2,Leak,Minor
+2025-06-19,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250619-367,217,86,6,Leak,Minor
+2025-06-19,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250619-437,200,86,2,Dimensional OOT,Minor
+2025-06-20,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250620-809,195,57,1,Leak,Major
+2025-06-20,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250620-263,215,107,4,Cosmetic,Minor
+2025-06-20,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250620-820,185,47,0,,
+2025-06-21,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250621-476,218,63,2,Cosmetic,Critical
+2025-06-21,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250621-256,207,90,1,Leak,Minor
+2025-06-21,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250621-482,169,64,0,,
+2025-06-22,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250622-582,205,70,0,,
+2025-06-22,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250622-880,213,107,1,Contamination,Major
+2025-06-22,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250622-557,170,82,3,Contamination,Minor
+2025-06-22,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250622-179,205,102,0,,
+2025-06-23,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250623-948,190,85,0,,
+2025-06-23,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250623-268,201,102,2,Leak,Minor
+2025-06-23,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250623-552,197,57,0,,
+2025-06-23,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250623-622,199,94,2,Cosmetic,Minor
+2025-06-23,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250623-567,204,71,1,Dimensional OOT,Minor
+2025-06-24,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250624-840,205,97,3,Dimensional OOT,Major
+2025-06-24,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250624-323,192,95,5,Leak,Minor
+2025-06-24,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250624-165,179,76,2,Leak,Minor
+2025-06-24,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250624-583,208,76,2,Documentation,Minor
+2025-06-24,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250624-884,189,78,3,Dimensional OOT,Major
+2025-06-25,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250625-559,186,79,0,,
+2025-06-25,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250625-484,197,105,0,,
+2025-06-25,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250625-221,204,60,2,Leak,Major
+2025-06-25,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250625-502,177,85,0,,
+2025-06-26,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250626-954,189,66,0,,
+2025-06-26,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250626-836,198,104,1,Documentation,Minor
+2025-06-26,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250626-353,214,81,1,Dimensional OOT,Major
+2025-06-26,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250626-996,205,82,1,Leak,Minor
+2025-06-26,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250626-729,195,96,3,Leak,Major
+2025-06-27,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250627-557,194,96,2,Leak,Minor
+2025-06-28,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250628-549,205,70,2,Leak,Minor
+2025-06-28,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250628-322,206,72,0,,
+2025-06-28,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250628-339,191,79,3,Leak,Critical
+2025-06-28,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250628-426,179,106,0,,
+2025-06-28,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250628-342,184,91,3,Contamination,Major
+2025-06-29,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250629-776,208,64,0,,
+2025-06-29,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250629-670,201,59,1,Dimensional OOT,Minor
+2025-06-29,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250629-852,213,62,0,,
+2025-06-30,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250630-452,179,82,2,Dimensional OOT,Minor
+2025-06-30,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250630-526,217,82,3,Contamination,Minor
+2025-07-01,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250701-485,197,87,0,,
+2025-07-01,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250701-407,208,81,1,Dimensional OOT,Major
+2025-07-01,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250701-925,176,69,0,,
+2025-07-01,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250701-675,188,58,0,,
+2025-07-02,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250702-361,195,95,3,Dimensional OOT,Minor
+2025-07-02,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250702-967,197,96,1,Cosmetic,Critical
+2025-07-02,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250702-152,200,84,2,Dimensional OOT,Major
+2025-07-02,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250702-789,180,74,0,,
+2025-07-03,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250703-879,208,92,1,Contamination,Minor
+2025-07-03,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250703-440,200,79,1,Leak,Minor
+2025-07-03,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250703-859,205,84,5,Leak,Minor
+2025-07-03,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250703-820,215,48,2,Contamination,Major
+2025-07-03,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250703-894,198,67,1,Contamination,Minor
+2025-07-04,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250704-367,187,75,2,Dimensional OOT,Minor
+2025-07-04,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250704-922,242,70,1,Contamination,Minor
+2025-07-04,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250704-879,214,63,0,,
+2025-07-05,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250705-479,195,70,0,,
+2025-07-05,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250705-146,206,76,0,,
+2025-07-05,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250705-666,214,68,2,Cosmetic,Minor
+2025-07-06,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250706-335,203,91,2,Leak,Minor
+2025-07-06,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250706-770,182,101,1,Contamination,Minor
+2025-07-06,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250706-840,186,85,3,Leak,Major
+2025-07-06,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250706-460,204,82,3,Dimensional OOT,Major
+2025-07-06,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250706-655,184,65,1,Cosmetic,Minor
+2025-07-07,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250707-937,192,74,1,Contamination,Minor
+2025-07-08,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250708-336,200,83,1,Dimensional OOT,Major
+2025-07-09,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250709-482,215,70,3,Leak,Minor
+2025-07-10,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250710-116,190,58,1,Contamination,Major
+2025-07-11,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250711-521,186,86,0,,
+2025-07-12,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250712-393,207,90,1,Cosmetic,Minor
+2025-07-13,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250713-925,177,64,0,,
+2025-07-14,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250714-734,190,75,2,Dimensional OOT,Minor
+2025-07-14,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250714-506,192,75,4,Contamination,Minor
+2025-07-15,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250715-570,216,69,0,,
+2025-07-16,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250716-407,211,64,0,,
+2025-07-16,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250716-877,194,52,2,Cosmetic,Major
+2025-07-16,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250716-587,188,89,4,Dimensional OOT,Minor
+2025-07-16,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250716-965,205,94,2,Cosmetic,Minor
+2025-07-16,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250716-197,211,67,1,Dimensional OOT,Major
+2025-07-17,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250717-808,204,76,2,Leak,Critical
+2025-07-17,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250717-176,214,71,1,Dimensional OOT,Minor
+2025-07-17,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250717-656,207,88,0,,
+2025-07-17,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250717-116,200,95,2,Leak,Major
+2025-07-17,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250717-940,184,61,2,Leak,Major
+2025-07-18,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250718-406,198,74,0,,
+2025-07-18,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250718-498,212,92,4,Leak,Major
+2025-07-18,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250718-439,199,83,0,,
+2025-07-18,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250718-909,225,53,0,,
+2025-07-19,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250719-958,176,63,3,Leak,Minor
+2025-07-20,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250720-506,220,66,3,Contamination,Critical
+2025-07-21,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250721-333,221,79,3,Contamination,Minor
+2025-07-21,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250721-796,172,85,4,Documentation,Minor
+2025-07-21,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250721-187,176,77,0,,
+2025-07-22,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250722-257,179,54,1,Cosmetic,Minor
+2025-07-22,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250722-857,193,72,0,,
+2025-07-22,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250722-415,194,74,1,Dimensional OOT,Minor
+2025-07-22,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250722-879,218,79,0,,
+2025-07-22,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250722-559,203,83,1,Leak,Minor
+2025-07-23,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250723-517,183,78,0,,
+2025-07-23,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250723-191,198,62,0,,
+2025-07-23,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250723-432,203,87,1,Leak,Minor
+2025-07-23,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250723-897,201,62,1,Leak,Minor
+2025-07-23,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250723-685,210,98,1,Contamination,Critical
+2025-07-24,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250724-273,218,72,0,,
+2025-07-24,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250724-164,181,108,4,Leak,Minor
+2025-07-24,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250724-901,206,48,2,Leak,Minor
+2025-07-24,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250724-357,182,71,0,,
+2025-07-24,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250724-731,185,85,4,Cosmetic,Minor
+2025-07-25,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250725-505,203,98,1,Leak,Minor
+2025-07-25,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250725-550,177,86,1,Dimensional OOT,Major
+2025-07-26,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250726-811,207,86,1,Leak,Minor
+2025-07-26,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250726-426,190,84,2,Leak,Critical
+2025-07-26,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250726-689,211,48,0,,
+2025-07-27,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250727-473,199,70,2,Leak,Major
+2025-07-27,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250727-284,199,70,2,Leak,Critical
+2025-07-28,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250728-825,197,97,0,,
+2025-07-28,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250728-170,193,91,2,Contamination,Major
+2025-07-28,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250728-410,200,80,1,Cosmetic,Minor
+2025-07-28,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250728-774,216,79,0,,
+2025-07-28,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250728-712,180,67,1,Contamination,Minor
+2025-07-29,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250729-990,214,71,3,Dimensional OOT,Critical
+2025-07-29,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250729-468,188,91,1,Dimensional OOT,Major
+2025-07-29,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250729-211,173,81,4,Cosmetic,Critical
+2025-07-29,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250729-762,188,87,1,Cosmetic,Minor
+2025-07-30,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250730-509,205,93,4,Documentation,Major
+2025-07-30,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250730-110,220,65,2,Documentation,Minor
+2025-07-30,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250730-671,209,70,1,Leak,Major
+2025-07-30,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250730-574,190,72,2,Leak,Minor
+2025-07-30,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250730-807,172,84,0,,
+2025-07-31,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250731-402,200,111,3,Documentation,Minor
+2025-07-31,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250731-245,211,65,2,Leak,Critical
+2025-07-31,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250731-633,223,63,1,Dimensional OOT,Major
+2025-07-31,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250731-587,185,98,0,,
+2025-07-31,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250731-839,210,79,0,,
+2025-08-01,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250801-217,204,93,1,Leak,Major
+2025-08-01,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250801-268,210,108,5,Cosmetic,Major
+2025-08-01,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250801-438,196,78,2,Dimensional OOT,Minor
+2025-08-01,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250801-514,198,82,2,Documentation,Minor
+2025-08-02,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250802-505,201,83,0,,
+2025-08-02,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250802-539,228,79,1,Contamination,Minor
+2025-08-03,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250803-928,168,73,2,Leak,Major
+2025-08-03,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250803-649,205,52,3,Dimensional OOT,Major
+2025-08-03,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250803-368,215,60,1,Leak,Minor
+2025-08-03,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250803-711,193,78,1,Dimensional OOT,Major
+2025-08-04,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250804-965,216,98,3,Cosmetic,Minor
+2025-08-04,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250804-276,195,86,0,,
+2025-08-04,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250804-788,227,72,1,Documentation,Minor
+2025-08-04,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250804-287,196,82,2,Leak,Minor
+2025-08-05,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250805-241,209,65,1,Dimensional OOT,Minor
+2025-08-05,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250805-650,228,76,1,Dimensional OOT,Minor
+2025-08-05,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250805-243,196,86,2,Dimensional OOT,Minor
+2025-08-06,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250806-734,189,63,0,,
+2025-08-06,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250806-109,207,61,0,,
+2025-08-07,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250807-617,215,62,2,Contamination,Critical
+2025-08-07,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250807-827,202,106,5,Dimensional OOT,Minor
+2025-08-07,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250807-131,188,100,3,Dimensional OOT,Minor
+2025-08-07,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250807-650,211,69,4,Leak,Minor
+2025-08-08,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250808-607,215,82,4,Dimensional OOT,Major
+2025-08-08,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250808-893,197,77,3,Leak,Minor
+2025-08-08,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250808-655,199,90,0,,
+2025-08-09,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250809-204,163,78,3,Dimensional OOT,Critical
+2025-08-10,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250810-936,194,100,1,Dimensional OOT,Minor
+2025-08-10,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250810-931,204,69,4,Contamination,Minor
+2025-08-11,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250811-724,185,69,1,Cosmetic,Major
+2025-08-11,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250811-311,197,75,1,Leak,Minor
+2025-08-12,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250812-683,221,67,0,,
+2025-08-12,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250812-387,207,72,0,,
+2025-08-13,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250813-431,182,71,0,,
+2025-08-13,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250813-396,203,81,0,,
+2025-08-13,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250813-795,213,81,1,Documentation,Minor
+2025-08-13,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250813-521,190,87,1,Leak,Major
+2025-08-13,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250813-229,202,98,3,Documentation,Major
+2025-08-14,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250814-828,188,78,0,,
+2025-08-14,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250814-879,218,90,0,,
+2025-08-15,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250815-691,200,64,0,,
+2025-08-15,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250815-177,184,89,1,Cosmetic,Minor
+2025-08-15,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250815-512,183,62,0,,
+2025-08-15,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250815-811,170,103,0,,
+2025-08-16,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250816-435,206,64,0,,
+2025-08-16,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250816-195,189,87,4,Contamination,Major
+2025-08-16,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250816-970,196,68,3,Cosmetic,Major
+2025-08-17,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250817-944,190,89,3,Dimensional OOT,Critical
+2025-08-18,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250818-660,218,114,1,Leak,Minor
+2025-08-18,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250818-451,197,97,1,Dimensional OOT,Minor
+2025-08-19,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250819-116,227,83,4,Cosmetic,Major
+2025-08-20,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250820-551,187,88,0,,
+2025-08-21,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250821-235,207,97,1,Leak,Major
+2025-08-21,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250821-380,204,54,1,Leak,Critical
+2025-08-21,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250821-764,212,64,2,Leak,Minor
+2025-08-21,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250821-505,211,96,0,,
+2025-08-22,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250822-197,210,91,1,Dimensional OOT,Minor
+2025-08-22,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250822-588,199,77,0,,
+2025-08-22,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250822-555,205,60,1,Cosmetic,Minor
+2025-08-23,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-250823-936,203,68,0,,
+2025-08-24,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250824-334,204,77,1,Cosmetic,Minor
+2025-08-25,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250825-406,209,108,4,Leak,Minor
+2025-08-25,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250825-236,213,85,1,Contamination,Major
+2025-08-25,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250825-170,187,98,0,,
+2025-08-25,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250825-550,210,89,3,Leak,Major
+2025-08-26,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-250826-521,182,68,1,Cosmetic,Minor
+2025-08-26,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250826-202,210,66,1,Contamination,Minor
+2025-08-26,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250826-703,203,81,0,,
+2025-08-27,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250827-383,204,75,1,Leak,Minor
+2025-08-27,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250827-838,178,79,2,Leak,Major
+2025-08-27,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250827-897,203,61,0,,
+2025-08-27,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250827-408,207,68,1,Contamination,Major
+2025-08-28,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250828-402,181,96,4,Dimensional OOT,Major
+2025-08-28,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250828-345,219,91,2,Contamination,Major
+2025-08-29,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250829-346,198,74,0,,
+2025-08-29,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250829-112,239,118,2,Leak,Major
+2025-08-29,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250829-682,177,82,1,Leak,Major
+2025-08-29,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250829-582,188,109,1,Dimensional OOT,Minor
+2025-08-30,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250830-140,192,103,2,Leak,Minor
+2025-08-31,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250831-613,206,88,1,Dimensional OOT,Major
+2025-09-01,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250901-730,194,64,3,Leak,Minor
+2025-09-01,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250901-308,196,46,1,Leak,Minor
+2025-09-01,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250901-749,189,86,1,Dimensional OOT,Minor
+2025-09-01,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250901-966,172,61,2,Leak,Minor
+2025-09-02,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250902-188,194,53,0,,
+2025-09-02,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250902-156,198,82,5,Leak,Major
+2025-09-03,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250903-818,183,101,3,Leak,Major
+2025-09-03,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250903-629,193,63,2,Dimensional OOT,Minor
+2025-09-03,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250903-899,187,112,6,Leak,Minor
+2025-09-04,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250904-926,203,82,1,Contamination,Minor
+2025-09-04,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250904-636,203,56,0,,
+2025-09-04,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250904-178,183,68,4,Cosmetic,Minor
+2025-09-05,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250905-680,211,114,3,Dimensional OOT,Minor
+2025-09-05,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250905-261,213,88,0,,
+2025-09-05,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250905-218,196,90,2,Contamination,Major
+2025-09-05,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250905-112,199,71,1,Leak,Major
+2025-09-06,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250906-283,197,71,1,Dimensional OOT,Critical
+2025-09-06,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250906-666,222,75,0,,
+2025-09-07,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250907-427,215,53,3,Leak,Critical
+2025-09-07,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250907-789,202,98,3,Dimensional OOT,Minor
+2025-09-07,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250907-147,196,114,2,Leak,Major
+2025-09-07,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250907-892,205,101,3,Contamination,Major
+2025-09-08,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-250908-666,188,78,0,,
+2025-09-08,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250908-903,185,71,1,Dimensional OOT,Minor
+2025-09-08,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250908-348,200,96,0,,
+2025-09-09,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250909-894,200,81,1,Documentation,Critical
+2025-09-09,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250909-106,219,82,1,Contamination,Minor
+2025-09-09,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250909-751,216,55,1,Leak,Minor
+2025-09-09,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250909-443,231,94,0,,
+2025-09-10,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-250910-969,206,40,0,,
+2025-09-11,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250911-603,193,102,2,Dimensional OOT,Minor
+2025-09-11,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-250911-337,196,89,3,Cosmetic,Minor
+2025-09-11,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-250911-569,199,77,1,Dimensional OOT,Major
+2025-09-12,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250912-503,189,72,1,Dimensional OOT,Major
+2025-09-13,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250913-233,196,87,1,Leak,Major
+2025-09-14,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250914-502,210,98,3,Contamination,Critical
+2025-09-14,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250914-176,218,68,1,Leak,Minor
+2025-09-15,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250915-211,202,82,0,,
+2025-09-15,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250915-516,207,71,1,Leak,Minor
+2025-09-16,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250916-888,199,97,0,,
+2025-09-17,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250917-192,184,111,2,Dimensional OOT,Major
+2025-09-17,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250917-141,210,98,1,Contamination,Major
+2025-09-18,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250918-464,190,100,3,Leak,Major
+2025-09-18,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250918-939,204,74,1,Leak,Minor
+2025-09-19,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-250919-663,204,52,2,Contamination,Minor
+2025-09-19,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250919-243,229,66,1,Dimensional OOT,Major
+2025-09-20,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250920-233,202,94,1,Contamination,Critical
+2025-09-21,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250921-760,203,98,2,Dimensional OOT,Major
+2025-09-21,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-250921-700,203,67,0,,
+2025-09-22,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-250922-761,192,56,2,Leak,Minor
+2025-09-22,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-250922-194,176,81,0,,
+2025-09-22,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250922-151,191,100,5,Leak,Critical
+2025-09-23,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-250923-608,227,114,1,Dimensional OOT,Major
+2025-09-23,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250923-799,207,89,0,,
+2025-09-24,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250924-319,188,67,0,,
+2025-09-24,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250924-252,217,63,3,Leak,Minor
+2025-09-24,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250924-402,211,59,3,Cosmetic,Minor
+2025-09-24,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250924-189,206,95,2,Contamination,Minor
+2025-09-25,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250925-916,196,97,3,Dimensional OOT,Major
+2025-09-25,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250925-745,187,69,0,,
+2025-09-25,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250925-913,211,56,0,,
+2025-09-26,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-250926-591,195,57,0,,
+2025-09-27,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-250927-429,199,67,1,Dimensional OOT,Minor
+2025-09-27,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-250927-324,219,71,2,Leak,Minor
+2025-09-27,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-250927-159,230,80,0,,
+2025-09-27,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-250927-338,200,94,3,Dimensional OOT,Major
+2025-09-27,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-250927-646,193,90,5,Leak,Minor
+2025-09-28,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-250928-497,192,86,2,Dimensional OOT,Critical
+2025-09-29,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-250929-280,207,79,0,,
+2025-09-29,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-250929-467,209,74,1,Leak,Major
+2025-09-29,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250929-681,216,89,1,Leak,Major
+2025-09-30,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-250930-929,204,85,3,Documentation,Major
+2025-09-30,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-250930-138,179,98,2,Dimensional OOT,Minor
+2025-09-30,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-250930-639,219,76,2,Leak,Minor
+2025-09-30,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-250930-925,207,66,2,Leak,Major
+2025-09-30,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-250930-834,191,64,0,,
+2025-10-01,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-251001-160,202,58,0,,
+2025-10-01,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-251001-892,201,80,2,Cosmetic,Critical
+2025-10-02,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-251002-482,189,94,3,Contamination,Critical
+2025-10-03,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-251003-261,197,87,2,Dimensional OOT,Minor
+2025-10-03,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-251003-764,197,92,1,Contamination,Critical
+2025-10-03,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-251003-728,192,79,3,Cosmetic,Minor
+2025-10-03,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-251003-328,193,74,0,,
+2025-10-04,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-251004-401,216,82,3,Dimensional OOT,Major
+2025-10-04,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-251004-686,197,47,1,Cosmetic,Critical
+2025-10-04,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-251004-928,205,78,2,Leak,Major
+2025-10-04,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-251004-608,193,81,5,Cosmetic,Minor
+2025-10-04,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-251004-427,218,76,7,Cosmetic,Minor
+2025-10-05,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-251005-846,211,83,3,Contamination,Major
+2025-10-05,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-251005-355,178,58,2,Dimensional OOT,Minor
+2025-10-06,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-251006-905,193,68,0,,
+2025-10-07,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-251007-149,186,70,0,,
+2025-10-08,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-251008-604,200,77,1,Documentation,Major
+2025-10-08,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-251008-948,192,74,2,Dimensional OOT,Minor
+2025-10-08,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-251008-266,181,82,1,Cosmetic,Major
+2025-10-08,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-251008-120,234,76,3,Contamination,Minor
+2025-10-09,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-251009-484,223,77,1,Leak,Minor
+2025-10-09,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-251009-660,191,93,0,,
+2025-10-09,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-251009-594,208,80,1,Dimensional OOT,Critical
+2025-10-10,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-251010-721,210,82,0,,
+2025-10-11,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-251011-203,195,74,0,,
+2025-10-11,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-251011-294,196,86,0,,
+2025-10-11,Boreal Quick Disconnects,S004,PM-5005,Pump Module,LOT-251011-839,212,62,0,,
+2025-10-11,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-251011-343,220,61,1,Leak,Minor
+2025-10-12,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-251012-257,194,98,2,Dimensional OOT,Major
+2025-10-13,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-251013-777,182,68,1,Dimensional OOT,Minor
+2025-10-14,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-251014-199,204,96,0,,
+2025-10-14,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-251014-183,199,75,3,Leak,Minor
+2025-10-14,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-251014-600,192,59,1,Leak,Minor
+2025-10-14,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-251014-289,176,71,3,Leak,Minor
+2025-10-14,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-251014-369,181,84,5,Dimensional OOT,Minor
+2025-10-15,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-251015-163,202,72,3,Leak,Minor
+2025-10-15,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-251015-654,193,68,5,Leak,Minor
+2025-10-15,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-251015-332,210,76,0,,
+2025-10-15,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-251015-528,197,79,2,Contamination,Major
+2025-10-16,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-251016-406,194,102,4,Dimensional OOT,Minor
+2025-10-16,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-251016-614,193,74,3,Contamination,Major
+2025-10-16,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-251016-735,229,91,4,Contamination,Major
+2025-10-16,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-251016-271,196,105,1,Documentation,Minor
+2025-10-16,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-251016-799,211,62,2,Leak,Minor
+2025-10-17,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-251017-844,202,95,1,Contamination,Minor
+2025-10-17,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-251017-665,197,80,3,Leak,Minor
+2025-10-17,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-251017-632,189,76,0,,
+2025-10-17,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-251017-635,189,82,1,Contamination,Major
+2025-10-18,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-251018-696,210,93,6,Leak,Minor
+2025-10-18,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-251018-203,203,71,3,Documentation,Minor
+2025-10-18,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-251018-998,181,85,2,Contamination,Major
+2025-10-18,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-251018-492,199,92,0,,
+2025-10-19,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-251019-584,212,75,0,,
+2025-10-19,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-251019-723,209,62,1,Leak,Minor
+2025-10-19,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-251019-439,164,96,3,Leak,Major
+2025-10-19,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-251019-375,197,84,2,Leak,Minor
+2025-10-20,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-251020-387,189,70,1,Contamination,Minor
+2025-10-20,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-251020-989,201,62,1,Contamination,Major
+2025-10-20,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-251020-892,211,88,1,Leak,Major
+2025-10-21,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-251021-552,204,49,1,Cosmetic,Minor
+2025-10-21,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-251021-988,186,108,1,Cosmetic,Major
+2025-10-21,Cascade Pumps Inc.,S005,CP-1001,Coldplate - 100mm,LOT-251021-418,190,88,3,Dimensional OOT,Minor
+2025-10-22,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-251022-682,200,48,2,Contamination,Minor
+2025-10-22,Glacier Hose & Clamp,S003,MN-2002,Manifold Block,LOT-251022-957,210,115,1,Leak,Major
+2025-10-22,Polar Precision Machining,S002,MN-2002,Manifold Block,LOT-251022-469,199,72,1,Leak,Minor
+2025-10-22,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-251022-380,200,81,0,,
+2025-10-22,Glacier Hose & Clamp,S003,QD-4004,Quick Disconnect - 1/4in,LOT-251022-226,161,78,2,Dimensional OOT,Major
+2025-10-23,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-251023-991,190,79,1,Dimensional OOT,Minor
+2025-10-24,Polar Precision Machining,S002,PM-5005,Pump Module,LOT-251024-364,203,69,1,Dimensional OOT,Minor
+2025-10-24,Glacier Hose & Clamp,S003,CP-1001,Coldplate - 100mm,LOT-251024-266,178,84,3,Leak,Minor
+2025-10-24,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-251024-898,191,62,0,,
+2025-10-24,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-251024-375,191,93,2,Cosmetic,Major
+2025-10-25,ArcticManifold Ltd.,S001,CP-1001,Coldplate - 100mm,LOT-251025-798,202,93,1,Contamination,Critical
+2025-10-25,Boreal Quick Disconnects,S004,QD-4004,Quick Disconnect - 1/4in,LOT-251025-235,201,100,0,,
+2025-10-25,Boreal Quick Disconnects,S004,MN-2002,Manifold Block,LOT-251025-358,203,101,2,Cosmetic,Minor
+2025-10-25,Cascade Pumps Inc.,S005,HS-3003,Hose Assembly - 3/8in,LOT-251025-381,219,83,1,Cosmetic,Major
+2025-10-26,ArcticManifold Ltd.,S001,QD-4004,Quick Disconnect - 1/4in,LOT-251026-323,192,82,2,Contamination,Minor
+2025-10-26,Polar Precision Machining,S002,HS-3003,Hose Assembly - 3/8in,LOT-251026-506,191,77,1,Cosmetic,Major
+2025-10-26,Polar Precision Machining,S002,CP-1001,Coldplate - 100mm,LOT-251026-107,205,74,0,,
+2025-10-26,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-251026-389,182,73,3,Dimensional OOT,Minor
+2025-10-27,Boreal Quick Disconnects,S004,CP-1001,Coldplate - 100mm,LOT-251027-383,198,92,1,Dimensional OOT,Minor
+2025-10-27,Boreal Quick Disconnects,S004,HS-3003,Hose Assembly - 3/8in,LOT-251027-828,215,82,1,Contamination,Minor
+2025-10-27,Glacier Hose & Clamp,S003,HS-3003,Hose Assembly - 3/8in,LOT-251027-346,228,98,2,Leak,Minor
+2025-10-28,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-251028-513,226,89,0,,
+2025-10-29,Cascade Pumps Inc.,S005,MN-2002,Manifold Block,LOT-251029-402,195,100,7,Cosmetic,Major
+2025-10-29,Cascade Pumps Inc.,S005,QD-4004,Quick Disconnect - 1/4in,LOT-251029-697,195,95,1,Dimensional OOT,Major
+2025-10-29,Glacier Hose & Clamp,S003,PM-5005,Pump Module,LOT-251029-830,231,97,1,Contamination,Minor
+2025-10-30,ArcticManifold Ltd.,S001,PM-5005,Pump Module,LOT-251030-753,204,67,0,,
+2025-10-30,Polar Precision Machining,S002,QD-4004,Quick Disconnect - 1/4in,LOT-251030-787,191,73,0,,
+2025-10-31,ArcticManifold Ltd.,S001,HS-3003,Hose Assembly - 3/8in,LOT-251031-997,171,105,3,Contamination,Major
+2025-10-31,ArcticManifold Ltd.,S001,MN-2002,Manifold Block,LOT-251031-858,208,76,2,Leak,Minor
+2025-10-31,Cascade Pumps Inc.,S005,PM-5005,Pump Module,LOT-251031-796,207,82,1,Contamination,Minor

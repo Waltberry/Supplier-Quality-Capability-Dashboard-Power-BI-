@@ -1,0 +1,52 @@
+-- =========================
+-- TABLE: Incoming Inspections (incoming_inspections)
+-- =========================
+Total Inspected = SUM('incoming_inspections'[qty_inspected])
+Total Defects = SUM('incoming_inspections'[defects_found])
+Defect Rate % = DIVIDE([Total Defects], [Total Inspected])
+
+-- Common date intelligence (optional)
+Inspection Date = MAX('incoming_inspections'[date])
+
+-- =========================
+-- TABLE: In-Process Measurements (inprocess_measurements)
+-- =========================
+Mean Value = AVERAGE('inprocess_measurements'[measurement_value])
+Sigma (P) = STDEV.P('inprocess_measurements'[measurement_value])
+USL = MAX('inprocess_measurements'[usl])
+LSL = MIN('inprocess_measurements'[lsl])
+Cp = DIVIDE([USL] - [LSL], 6 * [Sigma (P)])
+Cpu = DIVIDE([USL] - [Mean Value], 3 * [Sigma (P)])
+Cpl = DIVIDE([Mean Value] - [LSL], 3 * [Sigma (P)])
+Cpk = MIN([Cpu], [Cpl])
+
+-- For monthly sparkline: add 'date' (Month) to the sparkline axis and use [Cpk] as value.
+
+-- =========================
+-- TABLE: NCR Log (ncr_log)
+-- =========================
+Open NCRs = COUNTROWS(FILTER('ncr_log', 'ncr_log'[status] <> "Closed"))
+
+Days Open =
+VAR OpenDate = MIN('ncr_log'[date_opened])
+VAR CloseDate = MIN('ncr_log'[date_closed])
+VAR EndDate = IF(ISBLANK(CloseDate), TODAY(), CloseDate)
+RETURN DATEDIFF(OpenDate, EndDate, DAY)
+
+Median Days Open =
+MEDIANX(FILTER('ncr_log', 'ncr_log'[status] <> "Closed"), [Days Open])
+
+-- Aging bucket (measure)
+Aging Bucket =
+VAR d = [Days Open]
+RETURN
+SWITCH(TRUE(),
+    d <= 7, "00-07",
+    d <= 14, "08-14",
+    d <= 30, "15-30",
+    d <= 60, "31-60",
+    "61+"
+)
+
+-- (Optional) NCR count measure for the bucketed chart
+NCR Count = COUNTROWS('ncr_log')

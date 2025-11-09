@@ -1,0 +1,141 @@
+ncr_id,date_opened,date_closed,status,supplier_name,process,defect_type,severity,description
+NCR-2025-1000,2025-10-10,,Containment,Polar Precision Machining,QD Torque Set,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1001,2025-07-22,,Open,Cascade Pumps Inc.,Manifold Leak Test,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1002,2025-09-03,,Open,Polar Precision Machining,Coldplate Machining,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1003,2025-09-09,2025-09-17,Closed,Boreal Quick Disconnects,QD Torque Set,Leak,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1004,2025-04-01,2025-04-25,Closed,Glacier Hose & Clamp,Coldplate Machining,Leak,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1005,2025-08-07,,In Review,Boreal Quick Disconnects,Hose Clamp Assembly,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1006,2025-01-07,2025-01-22,Closed,ArcticManifold Ltd.,Hose Clamp Assembly,Leak,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1007,2025-01-23,,Open,Boreal Quick Disconnects,Coldplate Machining,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1008,2025-01-05,2025-01-11,Closed,Glacier Hose & Clamp,QD Torque Set,Leak,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1009,2025-09-03,2025-09-20,Closed,Polar Precision Machining,Coldplate Machining,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1010,2025-03-21,,In Review,Boreal Quick Disconnects,QD Torque Set,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1011,2025-01-23,,Containment,Cascade Pumps Inc.,Manifold Leak Test,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1012,2025-04-25,,Containment,Cascade Pumps Inc.,Coldplate Machining,Cosmetic,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1013,2025-04-26,2025-05-20,Closed,Cascade Pumps Inc.,Hose Clamp Assembly,Contamination,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1014,2025-02-26,,Containment,Polar Precision Machining,Hose Clamp Assembly,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1015,2025-07-04,2025-07-09,Closed,ArcticManifold Ltd.,Hose Clamp Assembly,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1016,2025-08-08,2025-08-30,Closed,Polar Precision Machining,Manifold Leak Test,Dimensional OOT,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1017,2025-06-04,2025-06-16,Closed,ArcticManifold Ltd.,Hose Clamp Assembly,Cosmetic,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1018,2025-07-08,2025-08-05,Closed,Polar Precision Machining,Hose Clamp Assembly,Leak,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1019,2025-03-18,2025-03-25,Closed,Glacier Hose & Clamp,Coldplate Machining,Contamination,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1020,2025-09-02,2025-09-08,Closed,Cascade Pumps Inc.,Manifold Leak Test,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1021,2025-06-15,2025-06-23,Closed,Cascade Pumps Inc.,Manifold Leak Test,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1022,2025-08-06,2025-08-22,Closed,Cascade Pumps Inc.,QD Torque Set,Dimensional OOT,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1023,2025-05-06,2025-05-26,Closed,Polar Precision Machining,Manifold Leak Test,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1024,2025-04-28,2025-05-19,Closed,Glacier Hose & Clamp,Manifold Leak Test,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1025,2025-04-23,2025-05-03,Closed,Polar Precision Machining,Hose Clamp Assembly,Dimensional OOT,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1026,2025-01-09,2025-01-27,Closed,Glacier Hose & Clamp,Hose Clamp Assembly,Leak,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1027,2025-07-04,2025-08-03,Closed,Boreal Quick Disconnects,Coldplate Machining,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1028,2025-10-10,2025-10-26,Closed,Cascade Pumps Inc.,Coldplate Machining,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1029,2025-03-12,,In Review,Cascade Pumps Inc.,Coldplate Machining,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1030,2025-08-06,2025-08-31,Closed,Boreal Quick Disconnects,Hose Clamp Assembly,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1031,2025-03-22,,Containment,Boreal Quick Disconnects,Hose Clamp Assembly,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1032,2025-10-19,2025-11-04,Closed,Cascade Pumps Inc.,Coldplate Machining,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1033,2025-09-28,2025-10-10,Closed,Cascade Pumps Inc.,Manifold Leak Test,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1034,2025-01-07,,Open,Cascade Pumps Inc.,Hose Clamp Assembly,Documentation,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1035,2025-09-15,,Containment,Glacier Hose & Clamp,Manifold Leak Test,Contamination,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1036,2025-05-13,2025-06-01,Closed,Boreal Quick Disconnects,Coldplate Machining,Contamination,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1037,2025-05-20,2025-06-08,Closed,Boreal Quick Disconnects,Coldplate Machining,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1038,2025-01-29,,Open,Cascade Pumps Inc.,Hose Clamp Assembly,Contamination,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1039,2025-07-27,2025-08-04,Closed,Polar Precision Machining,QD Torque Set,Contamination,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1040,2025-02-25,,Containment,Polar Precision Machining,QD Torque Set,Leak,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1041,2025-03-25,2025-03-30,Closed,Polar Precision Machining,Hose Clamp Assembly,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1042,2025-04-14,2025-04-18,Closed,Cascade Pumps Inc.,QD Torque Set,Leak,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1043,2025-10-17,,Containment,Glacier Hose & Clamp,Hose Clamp Assembly,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1044,2025-06-08,,Containment,Glacier Hose & Clamp,QD Torque Set,Contamination,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1045,2025-06-11,2025-07-07,Closed,Boreal Quick Disconnects,Coldplate Machining,Leak,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1046,2025-09-15,,Open,Polar Precision Machining,Manifold Leak Test,Contamination,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1047,2025-01-20,,Open,Polar Precision Machining,Manifold Leak Test,Leak,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1048,2025-02-17,2025-02-27,Closed,Polar Precision Machining,Coldplate Machining,Dimensional OOT,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1049,2025-03-24,2025-04-12,Closed,Glacier Hose & Clamp,QD Torque Set,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1050,2025-06-23,,In Review,ArcticManifold Ltd.,Manifold Leak Test,Leak,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1051,2025-07-18,,In Review,ArcticManifold Ltd.,Hose Clamp Assembly,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1052,2025-09-12,,Open,Cascade Pumps Inc.,QD Torque Set,Documentation,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1053,2025-02-14,2025-03-03,Closed,ArcticManifold Ltd.,Coldplate Machining,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1054,2025-05-24,2025-06-07,Closed,Cascade Pumps Inc.,Hose Clamp Assembly,Dimensional OOT,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1055,2025-08-24,,Containment,Glacier Hose & Clamp,Manifold Leak Test,Dimensional OOT,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1056,2025-10-19,2025-11-02,Closed,Boreal Quick Disconnects,QD Torque Set,Contamination,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1057,2025-03-08,2025-03-27,Closed,ArcticManifold Ltd.,QD Torque Set,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1058,2025-07-31,2025-08-11,Closed,Polar Precision Machining,Hose Clamp Assembly,Documentation,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1059,2025-01-30,2025-02-09,Closed,ArcticManifold Ltd.,Hose Clamp Assembly,Dimensional OOT,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1060,2025-05-29,2025-06-19,Closed,Boreal Quick Disconnects,Hose Clamp Assembly,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1061,2025-08-25,2025-09-08,Closed,ArcticManifold Ltd.,Manifold Leak Test,Documentation,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1062,2025-08-27,,Open,Glacier Hose & Clamp,Hose Clamp Assembly,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1063,2025-04-13,2025-04-18,Closed,Glacier Hose & Clamp,QD Torque Set,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1064,2025-09-01,,Containment,ArcticManifold Ltd.,Coldplate Machining,Contamination,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1065,2025-04-20,2025-04-24,Closed,ArcticManifold Ltd.,Manifold Leak Test,Leak,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1066,2025-07-05,2025-07-23,Closed,Polar Precision Machining,Hose Clamp Assembly,Dimensional OOT,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1067,2025-08-05,,In Review,Glacier Hose & Clamp,Hose Clamp Assembly,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1068,2025-07-27,,In Review,Glacier Hose & Clamp,Manifold Leak Test,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1069,2025-05-13,,Open,Boreal Quick Disconnects,Manifold Leak Test,Cosmetic,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1070,2025-06-02,,Containment,ArcticManifold Ltd.,Manifold Leak Test,Contamination,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1071,2025-03-24,2025-04-09,Closed,Boreal Quick Disconnects,Manifold Leak Test,Leak,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1072,2025-11-02,,In Review,Glacier Hose & Clamp,Coldplate Machining,Cosmetic,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1073,2025-06-12,,Containment,Glacier Hose & Clamp,Coldplate Machining,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1074,2025-02-28,2025-03-24,Closed,ArcticManifold Ltd.,QD Torque Set,Documentation,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1075,2025-08-19,2025-09-18,Closed,Polar Precision Machining,Manifold Leak Test,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1076,2025-04-22,2025-05-01,Closed,Boreal Quick Disconnects,Coldplate Machining,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1077,2025-06-28,,Open,Glacier Hose & Clamp,Hose Clamp Assembly,Cosmetic,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1078,2025-01-09,2025-01-21,Closed,Cascade Pumps Inc.,Hose Clamp Assembly,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1079,2025-08-22,2025-09-05,Closed,Glacier Hose & Clamp,Manifold Leak Test,Documentation,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1080,2025-06-21,,Open,Glacier Hose & Clamp,Manifold Leak Test,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1081,2025-11-01,,Containment,Boreal Quick Disconnects,QD Torque Set,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1082,2025-02-20,2025-03-20,Closed,Cascade Pumps Inc.,Hose Clamp Assembly,Leak,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1083,2025-07-30,,In Review,Boreal Quick Disconnects,Hose Clamp Assembly,Contamination,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1084,2025-01-17,2025-02-16,Closed,Glacier Hose & Clamp,Coldplate Machining,Dimensional OOT,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1085,2025-10-10,2025-10-19,Closed,Glacier Hose & Clamp,Manifold Leak Test,Leak,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1086,2025-08-26,2025-09-24,Closed,ArcticManifold Ltd.,Manifold Leak Test,Leak,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1087,2025-04-25,2025-05-06,Closed,Glacier Hose & Clamp,QD Torque Set,Cosmetic,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1088,2025-08-01,2025-08-04,Closed,ArcticManifold Ltd.,Manifold Leak Test,Leak,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1089,2025-03-20,2025-04-18,Closed,Glacier Hose & Clamp,QD Torque Set,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1090,2025-10-20,2025-10-30,Closed,Cascade Pumps Inc.,Manifold Leak Test,Dimensional OOT,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1091,2025-07-21,2025-08-18,Closed,ArcticManifold Ltd.,Manifold Leak Test,Dimensional OOT,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1092,2025-07-19,2025-07-27,Closed,Glacier Hose & Clamp,QD Torque Set,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1093,2025-04-29,,Open,ArcticManifold Ltd.,Hose Clamp Assembly,Documentation,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1094,2025-05-14,2025-05-22,Closed,Cascade Pumps Inc.,QD Torque Set,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1095,2025-01-14,2025-02-06,Closed,ArcticManifold Ltd.,Coldplate Machining,Leak,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1096,2025-10-06,2025-10-11,Closed,Glacier Hose & Clamp,Manifold Leak Test,Leak,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1097,2025-03-08,2025-03-31,Closed,Cascade Pumps Inc.,QD Torque Set,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1098,2025-04-24,,In Review,ArcticManifold Ltd.,Coldplate Machining,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1099,2025-01-27,,Open,Cascade Pumps Inc.,Hose Clamp Assembly,Documentation,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1100,2025-02-26,2025-03-20,Closed,ArcticManifold Ltd.,Hose Clamp Assembly,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1101,2025-04-03,,Containment,ArcticManifold Ltd.,QD Torque Set,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1102,2025-09-09,2025-09-25,Closed,Polar Precision Machining,Manifold Leak Test,Leak,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1103,2025-08-03,2025-08-16,Closed,ArcticManifold Ltd.,Manifold Leak Test,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1104,2025-01-06,2025-01-30,Closed,Boreal Quick Disconnects,Hose Clamp Assembly,Leak,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1105,2025-06-27,2025-07-19,Closed,Polar Precision Machining,Hose Clamp Assembly,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1106,2025-05-11,2025-05-20,Closed,Boreal Quick Disconnects,Hose Clamp Assembly,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1107,2025-09-20,2025-09-29,Closed,ArcticManifold Ltd.,QD Torque Set,Leak,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1108,2025-01-16,2025-01-26,Closed,ArcticManifold Ltd.,Coldplate Machining,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1109,2025-04-13,2025-04-27,Closed,Boreal Quick Disconnects,QD Torque Set,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1110,2025-09-11,2025-09-26,Closed,Cascade Pumps Inc.,Coldplate Machining,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1111,2025-05-24,2025-05-30,Closed,Polar Precision Machining,QD Torque Set,Dimensional OOT,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1112,2025-09-07,2025-09-24,Closed,Glacier Hose & Clamp,QD Torque Set,Cosmetic,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1113,2025-07-16,2025-08-06,Closed,Glacier Hose & Clamp,QD Torque Set,Leak,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1114,2025-01-18,2025-01-29,Closed,ArcticManifold Ltd.,Manifold Leak Test,Cosmetic,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1115,2025-09-29,2025-10-02,Closed,Glacier Hose & Clamp,Coldplate Machining,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1116,2025-04-06,2025-04-11,Closed,Cascade Pumps Inc.,QD Torque Set,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1117,2025-06-10,,Containment,ArcticManifold Ltd.,Hose Clamp Assembly,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1118,2025-10-18,2025-10-28,Closed,Glacier Hose & Clamp,Hose Clamp Assembly,Contamination,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1119,2025-04-19,2025-04-25,Closed,ArcticManifold Ltd.,QD Torque Set,Documentation,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1120,2025-02-08,2025-03-03,Closed,Polar Precision Machining,Manifold Leak Test,Cosmetic,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1121,2025-04-12,,Containment,ArcticManifold Ltd.,Hose Clamp Assembly,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1122,2025-03-05,2025-03-27,Closed,Cascade Pumps Inc.,Manifold Leak Test,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1123,2025-05-26,,In Review,Boreal Quick Disconnects,Manifold Leak Test,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1124,2025-07-26,,In Review,Polar Precision Machining,Hose Clamp Assembly,Cosmetic,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1125,2025-02-05,2025-03-06,Closed,Boreal Quick Disconnects,Manifold Leak Test,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1126,2025-06-27,2025-07-17,Closed,Polar Precision Machining,QD Torque Set,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1127,2025-07-21,,Containment,Glacier Hose & Clamp,Hose Clamp Assembly,Cosmetic,Critical,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1128,2025-02-22,,Open,ArcticManifold Ltd.,Hose Clamp Assembly,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1129,2025-06-15,2025-07-11,Closed,Boreal Quick Disconnects,Coldplate Machining,Dimensional OOT,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1130,2025-07-08,2025-07-28,Closed,ArcticManifold Ltd.,Hose Clamp Assembly,Cosmetic,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1131,2025-01-23,,Containment,Glacier Hose & Clamp,QD Torque Set,Cosmetic,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1132,2025-07-14,,Open,ArcticManifold Ltd.,Coldplate Machining,Documentation,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1133,2025-03-06,2025-03-13,Closed,Polar Precision Machining,Manifold Leak Test,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1134,2025-09-25,2025-10-16,Closed,Cascade Pumps Inc.,Manifold Leak Test,Cosmetic,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1135,2025-09-05,,Containment,Glacier Hose & Clamp,QD Torque Set,Leak,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1136,2025-05-05,2025-05-31,Closed,Boreal Quick Disconnects,Coldplate Machining,Leak,Minor,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1137,2025-09-11,,Open,Polar Precision Machining,Coldplate Machining,Contamination,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1138,2025-04-07,2025-04-20,Closed,Polar Precision Machining,QD Torque Set,Cosmetic,Major,Nonconformance recorded during inspection or in-process verification
+NCR-2025-1139,2025-03-20,2025-03-26,Closed,Polar Precision Machining,Coldplate Machining,Dimensional OOT,Critical,Nonconformance recorded during inspection or in-process verification

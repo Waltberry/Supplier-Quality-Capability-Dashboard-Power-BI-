@@ -1,0 +1,67 @@
+// Incoming Inspections query (Power Query M)
+let
+    Source = Csv.Document(File.Contents("incoming_inspections.csv"),[Delimiter=",", Columns=11, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Promote = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    ChangeTypes = Table.TransformColumnTypes(Promote,{
+        {"date", type date},
+        {"supplier_name", type text},
+        {"supplier_code", type text},
+        {"part_number", type text},
+        {"part_desc", type text},
+        {"lot_id", type text},
+        {"qty_received", Int64.Type},
+        {"qty_inspected", Int64.Type},
+        {"defects_found", Int64.Type},
+        {"defect_type", type text},
+        {"severity", type text}
+    })
+in
+    ChangeTypes
+
+// In-Process Measurements query
+let
+    Source = Csv.Document(File.Contents("inprocess_measurements.csv"),[Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Promote = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    ChangeTypes = Table.TransformColumnTypes(Promote,{
+        {"date", type date},
+        {"process", type text},
+        {"workstation", type text},
+        {"characteristic", type text},
+        {"measurement_value", type number},
+        {"target", type number},
+        {"lsl", type number},
+        {"usl", type number}
+    })
+in
+    ChangeTypes
+
+// NCR Log query
+let
+    Source = Csv.Document(File.Contents("ncr_log.csv"),[Delimiter=",", Columns=9, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Promote = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    ChangeTypes = Table.TransformColumnTypes(Promote,{
+        {"ncr_id", type text},
+        {"date_opened", type date},
+        {"date_closed", type date},
+        {"status", type text},
+        {"supplier_name", type text},
+        {"process", type text},
+        {"defect_type", type text},
+        {"severity", type text},
+        {"description", type text}
+    })
+in
+    ChangeTypes
+
+// Suppliers query
+let
+    Source = Csv.Document(File.Contents("suppliers.csv"),[Delimiter=",", Columns=4, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Promote = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    ChangeTypes = Table.TransformColumnTypes(Promote,{
+        {"supplier_name", type text},
+        {"supplier_code", type text},
+        {"category", type text},
+        {"country", type text}
+    })
+in
+    ChangeTypes
